@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning C, C++ at [Hive Helsinki Coding School](https://www.hive.fi/en/). My hobby projects include blogging, learning ML, genAI finetuning and building games.
 - 💻 Looking for a Junior Developer positions! Contact me if you want to hear more about me.
 
-<!---
-Lauri-Litovuo/Lauri-Litovuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauri-litovuo&layout=compact&theme=tokyonight)
